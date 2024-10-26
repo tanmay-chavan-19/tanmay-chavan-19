@@ -1,25 +1,62 @@
-<h1 align="center">Hi 👋, I'm Tanmay Chavan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 
+<h1 align="center">Hi 👋, I'm Tanmay Chavan</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+
+<div>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-chavan-19&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-chavan-19" /> </p>
 
 - 🌱 I’m currently learning **AI-ML Technologies**
 
-- 📫 How to reach me **tanmaychavan152002@gmail.com**
+- 📫 How to reach me: **tanmaychavan152002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanmay-chavan7282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-chavan7282/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tanmay-chavan-19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanmay-chavan-19/" height="30" width="40" /></a>
+</p>
+<br />
+</div>
+
+**Languages and Tools:**
+
+<p align="center">
+  <div align="center">
+  
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+  </div>
+  </p>
+
+---
+
+**GitHub Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmay-chavan-19&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-chavan-19&count_private=true&theme=dracula">
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay-chavan-19&show_icons=true&locale=en&layout=compact" alt="tanmay-chavan-19" /></p>
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+  
+   [![Website Badge](https://img.shields.io/badge/-tanmay.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tanmay.com)](https://tanmay.com) 
+   [![LinkedIn Badge](https://img.shields.io/badge/-tanmaychavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmay-chavan7282/)](https://www.linkedin.com/in/tanmay-chavan7282/) 
+   [![Gmail Badge](https://img.shields.io/badge/-tanmaychavan152002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanmaychavan152002@gmail.com)](mailto:tanmaychavan152002@gmail.com)
+   [![LeetCode Badge](https://img.shields.io/badge/-tanmaychavan19-orange?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/tanmay-chavan-19/)](https://leetcode.com/u/tanmay-chavan-19/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-chavan-19&show_icons=true&locale=en" alt="tanmay-chavan-19" /></p>
+  <p align="center">
+    Show ❤️ by starring repositories you find interesting!
+    <br />
+    ⭐️ From [Tanmay Chavan](https://github.com/tanmay-chavan-19)
+    <br />
+    Also, star and fork this repository if you’d like to try this new feature!
+  </p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-chavan-19&" alt="tanmay-chavan-19" /></p>
+<div align="right">
+  
+[![HitCount](http://hits.dwyl.com/tanmay-chavan-19/tanmay-chavan-19.svg)](http://hits.dwyl.com/tanmay-chavan-19/tanmay-chavan-19) ![ViewCount](https://views.whatilearened.today/views/github/tanmay-chavan-19/tanmay-chavan-19.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://tanmay-chavan-19.github.io/tanmay-chavan-19/)
+
+</div>
