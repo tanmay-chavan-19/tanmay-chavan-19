@@ -47,10 +47,6 @@
 
   <p align="center">
     Show ❤️ by starring repositories you find interesting!
-    <br />
-    ⭐️ From [Tanmay Chavan](https://github.com/tanmay-chavan-19)
-    <br />
-    Also, star and fork this repository if you’d like to try this new feature!
   </p>
 </p>
 
