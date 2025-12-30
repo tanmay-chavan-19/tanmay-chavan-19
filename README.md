@@ -41,10 +41,9 @@
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-tanmay.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tanmay.com)](https://tanmay.com) 
    [![LinkedIn Badge](https://img.shields.io/badge/-tanmaychavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmay-chavan7282/)](https://www.linkedin.com/in/tanmay-chavan7282/) 
    [![Gmail Badge](https://img.shields.io/badge/-tanmaychavan152002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanmaychavan152002@gmail.com)](mailto:tanmaychavan152002@gmail.com)
-   [![LeetCode Badge](https://img.shields.io/badge/-tanmaychavan19-orange?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/tanmay-chavan-19/)](https://leetcode.com/u/tanmay-chavan-19/)
+  
 
   <p align="center">
     Show ❤️ by starring repositories you find interesting!
