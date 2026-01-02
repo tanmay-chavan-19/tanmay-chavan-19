@@ -31,9 +31,14 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmay-chavan-19&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-chavan-19&count_private=true&theme=dracula">
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tanmay-chavan-19&hide=stars&show_icons=true&theme=dracula&line_height=32&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-chavan-19&layout=compact&theme=dracula&cache_seconds=1800"
+    height="165"
+  />
 </p>
 
 ---
