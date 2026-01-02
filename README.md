@@ -31,14 +31,19 @@
 
 <p align="center">
   
+<div align="center" style="display:flex; gap:10px; flex-wrap:wrap;">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tanmay-chavan-19&hide=stars&show_icons=true&theme=dracula&line_height=32&cache_seconds=1800"
-    height="165"
+    alt="Tanmay's Github Stats"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tanmay-chavan-19&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96"
+    height="192px"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-chavan-19&layout=compact&theme=dracula&cache_seconds=1800"
-    height="165"
+    alt="Tanmay's Top Languages"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tanmay-chavan-19&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2"
+    height="192px"
   />
+</div>
+
 </p>
 
 ---
